@@ -1,0 +1,32 @@
+*{margin: 0;}
+
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;color: #0F4771;}
+
+header{height: 10rem;text-align: center;background-color: #0F4771;}
+header > .logo{padding-top: 3.5rem;}
+
+section > .keyvisual{text-align: center;background-image: url('../img/m_03.png');height: 55.6rem;}
+
+section > .keyvisual > img{padding-top: 22.2rem;}
+
+section > .profile{background-color: #608DB5;height: 114.1rem;}
+
+.pf_01, .pf_02, .pf_03, .pf_04{text-align: center;}
+
+section > .profile > .pf_01, .pf_02, .pf_03, .pf_04{margin-top: 5.2rem;}
+
+.pf1, .pf2, .pf3, .pf4{text-align: center;}
+section > .pf1{background-color: #0F4771;height: 66.8rem;}
+section > .pf2{background-color: #608DB5;height: 70.7rem;}
+section > .pf3{background-color: #0F4771;height: 63.9rem;}
+section > .pf4{background-color: #608DB5;height: 63.7rem;}
+
+section > .pf1 > img{margin-top: 5.1rem;}
+section > .pf2 > img{margin-top: 5.1rem;}
+section > .pf3 > img{margin-top: 5.1rem;}
+section > .pf4 > img{margin-top: 5.1rem;}
+
+footer {background-color: #0F4771;height: 10rem;text-align: center;}
+footer > img{margin-top: 20rem;}
